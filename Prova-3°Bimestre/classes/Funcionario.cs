@@ -30,13 +30,8 @@ namespace Prova_3_Bimestre.classes
             Salario = salario;
 
         }
-        public virtual void ReceberSalario(double valor)
-        {
-            Salario += valor;
-        }
+        
        
-
-      
     }
 
     

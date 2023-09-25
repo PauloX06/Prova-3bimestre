@@ -24,10 +24,9 @@ namespace Prova_3_Bimestre.classes
 
         }
 
-        public override void ReceberSalario(double valor)
+        public double CalcularAuxilio()
         {
-           
-           
+            return Salario * 0.2;
         }
 
     }
